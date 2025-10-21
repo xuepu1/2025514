@@ -1,0 +1,2 @@
+ssh -p 14372 root@connect.bjb1.seetacloud.com
+scp -rP 14372 1.txt root@connect.bjb1.seetacloud.com:/root/autodl-tmp
